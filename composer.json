@@ -1,0 +1,18 @@
+{
+	"name": "kimlercorey/form-generator",
+	"license": "Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0)",
+	"description": "Form generator project",
+	"keywords": [
+		"wordpress", "wp", "plugin template"
+	],
+	"support": {
+		"issues": "https://github.com/kimlercorey/form-generator"
+	},
+	"require": {
+		"php": ">=5.4",
+		"squizlabs/php_codesniffer": "^3.3.1"
+    },
+	"require-dev": {
+        "wp-coding-standards/wpcs": "2.1.*"
+    }
+}
