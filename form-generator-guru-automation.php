@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Checode Form Generator
- * Version: 1.0.0
+ * Version: 1.0.4
  * Plugin URI: https://github.com/kimlercorey/form-generator
  * Description: Form Generator for wordpress
  * Author: Kimler (KC) Corey
